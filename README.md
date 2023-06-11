@@ -2,7 +2,8 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 A digital business card application built in React. This project is a part of [freeCodeCamp](https://www.freecodecamp.org/) course created by [Bob Ziroll](https://twitter.com/bobziroll). 
-You can follow along with this course through the provided link: [Free React Course for 2022](https://www.freecodecamp.org/news/free-react-course-2022/)
+
+Join me in following this course! So far, I can confidently say that I highly recommend it. Bob Ziroll and Scrimba have made it incredibly easy to follow along. You can access the course for free: [Free React Course for 2022](https://www.freecodecamp.org/news/free-react-course-2022/)
 
 ## Table of Contents
 
