@@ -25,10 +25,7 @@ You can join me in following along with this course by taking this link: [Free R
 
 
 ## Application Demo
-![Figma Design from Course](src/images/scrimba-figma-design.png)
-![Final App](src/images/final-result.png)
-
-*Figma design file from course (left) and my final React App (right)*
+![Digital Business Card Demo](/src/images/digital-businesscard-demo.png)
 
 
 ## Contributing
