@@ -31,13 +31,6 @@ You can join me in following along with this course by taking this link: [Free R
 ## Contributing
 
 This project is not currently available for contribution.
-
-
-## Tests
-
-To run tests on this project, follow these steps:
-
-Testing instructions will be available in a future update.
   
 ## Project Links
 
